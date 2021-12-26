@@ -1,4 +1,12 @@
-Trying to prove a point to my parents. Not everything on the internet is true just because you can find a website talking about it.
+## El hecho de que esté en Internet no significa que tiene buena reputación
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet sem diam, in pretium metus faucibus sit amet. Aliquam scelerisque elit non mauris pellentesque tristique sit amet id mi. Nunc quis facilisis ex. Integer venenatis arcu sed arcu elementum accumsan. Aliquam a sollicitudin quam. Sed semper congue lacus non imperdiet. Mauris luctus metus eget arcu auctor, ac gravida mi dapibus. Fusce mattis iaculis pulvinar. Nam vel molestie neque.
+
+
+### Deja de tener miedo de todo, especialmente de las cosas que no importan
+
+Vestibulum nec diam efficitur, molestie dolor eu, mattis metus. Quisque non ornare neque. Ut dictum nibh purus, sit amet fermentum diam condimentum ac. In feugiat a ex non tincidunt. Nunc sed ex a leo ultricies tincidunt et a leo. Ut sit amet consectetur tortor. Integer posuere, risus eu aliquam semper, magna metus elementum ante, eu lobortis libero justo nec libero. Praesent pulvinar aliquet nunc et porta. Nam fringilla, sapien id sagittis dapibus, est tortor posuere purus, ut lacinia velit nisl eget ante. Fusce ut pulvinar lorem. Aenean semper erat nisl, vitae congue dolor aliquet vel. Duis consequat iaculis tellus ut molestie. Maecenas lobortis orci vitae lacus tincidunt, vitae mollis ex gravida. Sed pharetra elit justo, nec porta est rhoncus non. 
+
 
 ### Jekyll Themes
 
@@ -6,4 +14,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out
