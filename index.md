@@ -1,7 +1,5 @@
 ## El hecho de que esté en Internet no significa que tiene buena reputación
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet sem diam, in pretium metus faucibus sit amet. Aliquam scelerisque elit non mauris pellentesque tristique sit amet id mi. Nunc quis facilisis ex. Integer venenatis arcu sed arcu elementum accumsan. Aliquam a sollicitudin quam. Sed semper congue lacus non imperdiet. Mauris luctus metus eget arcu auctor, ac gravida mi dapibus. Fusce mattis iaculis pulvinar. Nam vel molestie neque.
-
 
 ### Deja de tener miedo de todo, especialmente de las cosas que no importan
 
